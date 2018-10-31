@@ -1,0 +1,14 @@
+c:\repos\aspnet_core\MediatR\Sample.Api\bin\Debug\netcoreapp2.1\Sample.Api.deps.json
+c:\repos\aspnet_core\MediatR\Sample.Api\bin\Debug\netcoreapp2.1\Sample.Api.runtimeconfig.json
+c:\repos\aspnet_core\MediatR\Sample.Api\bin\Debug\netcoreapp2.1\Sample.Api.runtimeconfig.dev.json
+c:\repos\aspnet_core\MediatR\Sample.Api\bin\Debug\netcoreapp2.1\Sample.Api.dll
+c:\repos\aspnet_core\MediatR\Sample.Api\bin\Debug\netcoreapp2.1\Sample.Api.pdb
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.csprojAssemblyReference.cache
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.csproj.CoreCompileInputs.cache
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.RazorAssemblyInfo.cache
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.RazorAssemblyInfo.cs
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.AssemblyInfoInputs.cache
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.AssemblyInfo.cs
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.RazorTargetAssemblyInfo.cache
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.dll
+c:\repos\aspnet_core\MediatR\Sample.Api\obj\Debug\netcoreapp2.1\Sample.Api.pdb

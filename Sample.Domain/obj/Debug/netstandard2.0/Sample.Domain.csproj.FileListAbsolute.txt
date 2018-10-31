@@ -1,0 +1,9 @@
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.csprojAssemblyReference.cache
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.csproj.CoreCompileInputs.cache
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.AssemblyInfoInputs.cache
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.AssemblyInfo.cs
+C:\repos\aspnet_core\MediatR\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.deps.json
+C:\repos\aspnet_core\MediatR\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.dll
+C:\repos\aspnet_core\MediatR\Sample.Domain\bin\Debug\netstandard2.0\Sample.Domain.pdb
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.dll
+C:\repos\aspnet_core\MediatR\Sample.Domain\obj\Debug\netstandard2.0\Sample.Domain.pdb
